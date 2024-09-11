@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+.header {
+    display: flex;
+    justify-content: space-around; /* Adjusted for more control */
+    align-items: center;
+    padding: 30px;
+    position: relative; /* Needed for absolute positioning of menu */
+}
+
+img {
+    width: 130px;
+    height: 50px;
+}
+
+ul {
+    display: flex;
+    gap: 50px;
+}
+
+ul li {
+    font-size: 13pt;
+    font-weight: 500;
+    margin-left: 10px;
+    color: rgb(118, 118, 118);
+    list-style: none;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+
+}
+
+ul li:hover {
+    color: rgb(207, 203, 203);
+    cursor: pointer;
+}
+
+.search-container {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: #474a4f;
+    border-radius: 10px;
+    padding: 10px 15px;
+    width: 150px;
+}
+
+.search-container input {
+    background-color: transparent;
+    border: none;
+    color: #d8d8d8;
+    font-size: 14px;
+    padding-right: 34px;
+    font-weight: 600;
+    outline: none;
+    font-family: "Raleway", sans-serif;
+
+}
+
+#sr{
+    margin-left: 120px;
+}
+
+
+.search-container input::placeholder {
+    color: #afafaf;
+}
+
+.search-container .search-icon {
+    font-size: 18px;
+    color: #AAA;
+}
+
+
+.burger-icon {
+    display: none;
+    font-size: 24px;
+    color: #FFF;
+    cursor: pointer;
+}
+
+/* Responsive for Mobile */
+@media (max-width: 950px) {
+    ul {
+        display: none;
+        flex-direction: column;
+        position: absolute;
+        top: 80px;
+        right: 0;
+        background-color: #3E3E3E;
+        width: 200px;
+        padding: 10px;
+        border-radius: 5px;
+    }
+
+    ul.open {
+        display: flex;
+        z-index: 54;
+    }
+
+    .burger-icon {
+        display: block;
+        margin-left: 15px;
+    }
+
+    .search-container {
+        display: flex; /* Keep the search input visible on mobile */
+
+        margin-left: 10px; /* Add some space from the burger icon */
+    }
+}
+
+
+
+
+
+
+/* Responsive for Mobile */
+@media (max-width: 480px) {
+.header img{
+    width: 70px;
+    height: 30px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
