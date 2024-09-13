@@ -7,8 +7,8 @@ h1{
     display: flex;
     justify-content: space-around;
     padding: 5px;  flex-wrap: wrap;
- padding-left: 10%;
- padding-right: 10%;
+ padding-left: 17%;
+ padding-right: 17%;
     padding-bottom: 75px;
 }
 .ski{
@@ -102,7 +102,6 @@ height: auto;
 
 
 
-
 @media (max-width: 900px) {
 .ski{
     margin-top: 95px;
@@ -110,7 +109,7 @@ height: auto;
     .skills{
         
      
-      
+      padding: 5px;
         padding-bottom: 75px;
     }
 

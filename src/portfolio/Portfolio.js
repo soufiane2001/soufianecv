@@ -1,0 +1,104 @@
+import React from 'react'
+import './style.css'
+
+
+import pr1 from '../assets/pr1.JPG'
+
+
+
+function Portfolio() {
+  return (
+    <div className='portfolios'>
+      <h1>Portfolio</h1>
+
+<div className='portfolio'>
+
+<div class="image-container">
+  <img src={"https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE"} alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+
+<div class="image-container">
+  <img src="https://www.algerie-eco.com/wp-content/uploads/2018/02/marketplace-en-algerie.jpg" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+<div class="image-container">
+  <img src="https://www.noiise.com/wp-content/uploads/2023/11/definition-ecommerce.jpg" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+<div class="image-container">
+  <img src="https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+<div class="image-container">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNppN7vM3QQlf6oA48xueJWpNfuPJANUV09g&s" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+
+
+
+
+
+<div class="image-container">
+  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+
+
+<div class="image-container">
+  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+
+
+
+<div class="image-container">
+  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <div class="overlay">
+    <h2 class="title">Content Title</h2>
+    <button class="button">Button</button>
+  </div>
+</div>
+
+
+
+
+
+
+</div>
+   
+
+
+    </div>
+  )
+}
+
+export default Portfolio
