@@ -3,9 +3,9 @@ import './style.css'
 
 
 import pr1 from '../assets/pr1.JPG'
-
-
-
+import pr6 from '../assets/pr6.png'
+import pr7 from '../assets/pr7.JPG'
+import pr8 from '../assets/pr8.JPG'
 function Portfolio() {
   return (
     <div className='portfolios'>
@@ -60,7 +60,7 @@ function Portfolio() {
 
 
 <div class="image-container">
-  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <img src={pr6} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
     <button class="button">Button</button>
@@ -70,7 +70,7 @@ function Portfolio() {
 
 
 <div class="image-container">
-  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <img src={pr7} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
     <button class="button">Button</button>
@@ -81,7 +81,7 @@ function Portfolio() {
 
 
 <div class="image-container">
-  <img src="https://i.pinimg.com/originals/1c/d7/bf/1cd7bf4f6b00c9edd58876f3e16960cc.png" alt="Image" />
+  <img src={pr8} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
     <button class="button">Button</button>
