@@ -10,11 +10,9 @@
     padding: 3%;
     padding-left: 10%;
     padding-right: 10%;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 20px; /* Optional: add space between grid items */
-    justify-content: center; /* Centers the grid itself */
-  
+    display: flex;
+flex-wrap: wrap;
+  justify-content: center;
   
 
 }
@@ -22,9 +20,11 @@
 
 .image-container {
     position: relative;
+    margin-left: 15px;
     margin-top: 3%;
-   width: 300px;
-    height: 280px;  }
+   width: 350px;
+   border-radius: 85px;
+    height: 350px;  }
   
   .image-container img 
   {
@@ -32,7 +32,7 @@
  width: 100%;
  height: 100%;
     object-fit:inherit;
-border-radius: 1px;
+border-radius: 35px;
     border: 1px solid rgb(121, 119, 119);
   }
   
@@ -42,6 +42,7 @@ border-radius: 1px;
     left: 0;
     width:101%;
     height: 101%; 
+    border-radius: 35px;
   display: flex;
   flex-direction: column;
 justify-content: center;
@@ -87,7 +88,7 @@ background-color: white;
 }
 
 
-  @media (max-width: 720px) {
+  @media (max-width: 820px) {
     .portfolio{
         padding: 3%;
         padding-left: 5%;
@@ -107,7 +108,7 @@ background-color: white;
   }
 
 
-  @media (max-width: 580px) {
+  @media (max-width: 610px) {
 
     .image-container 
     {
@@ -135,8 +136,8 @@ background-color: white;
     .image-container 
     {
       
-      width: 190px;
-      height: 190px;
+      width: 170px;
+      height: 170px;
   
     }
     
@@ -150,18 +151,19 @@ background-color: white;
   }
 
 
+  @media (max-width: 400px) {
 
-  @media (max-width: 430px) {
-
-    .image-container img 
+    .image-container 
     {
       
-      width: 140px;
-      height: 120px;
+      width: 150px;
+      height: 150px;
   
     }
     
+    
   
 
-
   }
+
+

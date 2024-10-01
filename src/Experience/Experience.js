@@ -20,7 +20,7 @@ function Experience() {
             
              <div className='baricons'>
              <div class="glowing-ball"></div>
-             <div className='bar'>.fgdf</div>
+          
              </div>
             
              <div className='description'>
@@ -43,7 +43,7 @@ function Experience() {
           
            <div className='baricons'>
            <div class="glowing-ball"></div>
-           <div className='bar'>.fgdf</div>
+     
            </div>
           
            <div className='description'>

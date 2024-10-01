@@ -19,7 +19,7 @@ h1{
 
     height: 155px;
     background-color: rgb(63, 64, 65);
-   
+   margin-left: 25px;
     border-radius: 10px;
   margin-top: 45px;
    
@@ -120,6 +120,7 @@ height: auto;
 @media (max-width: 450px) {
     .ski{
         margin-top: 95px;
+        margin-left: 0px;
     }
     .skills{
         justify-content: space-between;
