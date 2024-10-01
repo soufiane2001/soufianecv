@@ -23,13 +23,14 @@
 .image-container {
     position: relative;
     margin-top: 3%;
-  }
+   width: 300px;
+    height: 280px;  }
   
   .image-container img 
   {
     
-    width: 300px;
-    height: 280px;
+ width: 100%;
+ height: 100%;
     object-fit:inherit;
 border-radius: 1px;
     border: 1px solid rgb(121, 119, 119);
@@ -39,8 +40,8 @@ border-radius: 1px;
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%; 
+    width:101%;
+    height: 101%; 
   display: flex;
   flex-direction: column;
 justify-content: center;
@@ -71,6 +72,20 @@ justify-content: center;
     display: block;
   }
 
+  .links{
+    background-color: red;
+  }
+  .fa-youtube{
+    margin-left:50%;
+color: red;
+background-color: white;
+  }
+.fa-github{
+  color: #000;
+  margin-left: 30%;
+  background-color: white;
+}
+
 
   @media (max-width: 720px) {
     .portfolio{
@@ -79,7 +94,7 @@ justify-content: center;
         padding-right: 5%;
        
     }
-    .image-container img 
+    .image-container 
     {
       
       width: 260px;
@@ -87,19 +102,14 @@ justify-content: center;
   
     }
     
-    .overlay {
-      width: 100%;
-
-
-    }
-
+  
 
   }
 
 
   @media (max-width: 580px) {
 
-    .image-container img 
+    .image-container 
     {
       
       width: 200px;
@@ -107,11 +117,7 @@ justify-content: center;
   
     }
     
-    .overlay {
-      width: 100%;
-
-
-    }
+  
     .portfolio{
        
         grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -126,7 +132,7 @@ justify-content: center;
 
   @media (max-width: 480px) {
 
-    .image-container img 
+    .image-container 
     {
       
       width: 190px;
@@ -134,11 +140,7 @@ justify-content: center;
   
     }
     
-    .overlay {
-      width: 100%;
-
-
-    }
+    
     .portfolio{
        
         grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
@@ -159,11 +161,7 @@ justify-content: center;
   
     }
     
-    .overlay {
-      width: 100%;
-
-
-    }
+  
 
 
   }

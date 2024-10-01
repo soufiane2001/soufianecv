@@ -1,0 +1,68 @@
+.experience{
+    background-color: rgb(70, 68, 68);
+    margin-top: 10%;
+   padding: 90px;
+  
+}
+.experience h1{
+    text-align: left;
+    margin-top: -115px;
+    font-size: 30pt;
+}
+.exps{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.exp{
+    display: flex;   
+    margin-left: 1px !important;
+    margin-top: 55px;
+  
+   width: 800px;
+}
+
+.exp h3{
+    background-color: rgb(109, 105, 105);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    height: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-top-right-radius: 15px;
+}
+
+
+.glowing-ball {
+    width: 22px;
+    height: 22px;
+    background-color: #f0d003;
+    border-radius: 50%;
+    box-shadow: 0 0 15px #e3c102, 0 0 10px #d9b902, 0 0 25px #d5d902, 0 0 40px #e4d901;
+    margin-left: 20px;
+    margin-top: 28px;
+  }
+
+.bar{
+    width: 15px;
+    height:500px;
+    color: aqua;
+   
+   
+    background-color: #d5d902;
+}
+.description h2{
+    color: white;
+    font-size: 26pt;
+    margin-left: 65px;
+    margin-top: 12px;
+}
+
+.description p{
+    color: rgb(187, 187, 187);
+    font-size: 12pt;
+margin-top: -20px;
+    margin-left: 65px;
+}

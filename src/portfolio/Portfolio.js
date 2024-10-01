@@ -16,8 +16,11 @@ function Portfolio() {
 <div class="image-container">
   <img src={"https://play-lh.googleusercontent.com/6RcPDQwPihY591Axu7e6mHhMZ22Q-dqeI5z9GkJiu4Hc-Xha77E6uoeplstYuv5RcnE"} alt="Image" />
   <div class="overlay">
-    <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <h2 class="title">Cash App</h2>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -26,7 +29,10 @@ function Portfolio() {
   <img src="https://www.algerie-eco.com/wp-content/uploads/2018/02/marketplace-en-algerie.jpg" alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -34,7 +40,10 @@ function Portfolio() {
   <img src="https://www.noiise.com/wp-content/uploads/2023/11/definition-ecommerce.jpg" alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -42,15 +51,20 @@ function Portfolio() {
   <img src="https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg" alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
 <div class="image-container">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNppN7vM3QQlf6oA48xueJWpNfuPJANUV09g&s" alt="Image" />
   <div class="overlay">
-    <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+  <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -63,7 +77,10 @@ function Portfolio() {
   <img src={pr6} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -73,7 +90,10 @@ function Portfolio() {
   <img src={pr7} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 
@@ -84,7 +104,10 @@ function Portfolio() {
   <img src={pr8} alt="Image" />
   <div class="overlay">
     <h2 class="title">Content Title</h2>
-    <button class="button">Button</button>
+    <div className='links'>
+    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-github'></i></a>
+ </div>
   </div>
 </div>
 

@@ -6,6 +6,7 @@ import Hero from './hero/hero';
 import About from './about/About';
 import Skills from './skills/Skills';
 import Portfolio from './portfolio/Portfolio';
+import Experience from './Experience/Experience';
 
 function App() {
  
@@ -18,6 +19,7 @@ function App() {
   <About/>
 <Skills/>
 <Portfolio/>
+<Experience/>
   </>
   );
 }
