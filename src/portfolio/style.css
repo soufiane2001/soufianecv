@@ -23,7 +23,7 @@ flex-wrap: wrap;
     margin-left: 15px;
     margin-top: 3%;
    width: 350px;
-   border-radius: 85px;
+   border-radius: 5px;
     height: 350px;  }
   
   .image-container img 
@@ -32,7 +32,7 @@ flex-wrap: wrap;
  width: 100%;
  height: 100%;
     object-fit:inherit;
-border-radius: 35px;
+border-radius: 20px;
     border: 1px solid rgb(121, 119, 119);
   }
   
