@@ -100,3 +100,17 @@ margin-top: -20px;
     margin-top: 55px;
 }
 }
+
+
+
+@media (max-width: 415px) {
+
+    .exp h3{
+        display: inline;
+    }
+.exp{
+    flex-direction: column;
+}
+
+
+}

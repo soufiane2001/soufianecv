@@ -42,7 +42,7 @@ border-radius: 20px;
     left: 0;
     width:101%;
     height: 101%; 
-    border-radius: 35px;
+    border-radius: 20px;
   display: flex;
   flex-direction: column;
 justify-content: center;
@@ -132,7 +132,22 @@ background-color: white;
 
 
   @media (max-width: 480px) {
-
+    .fa-youtube{
+      margin-left:60%;
+  color: red;
+  font-size: 14px;
+  width: 4px;
+  height: 4px;
+  background-color: white;
+    }
+  .fa-github{
+    color: #000;
+    font-size: 14px;
+    width: 4px;
+    height: 4px;
+    margin-left: 20%;
+    background-color: white;
+  }
     .image-container 
     {
       

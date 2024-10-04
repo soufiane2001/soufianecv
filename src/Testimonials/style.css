@@ -10,6 +10,7 @@
     padding: 5% 0% 5% 1%;
     display: flex;
    margin-top: 80px;
+
     justify-content: space-between;
     
 }
@@ -30,7 +31,7 @@
     object-fit: contain;
 }
 .word{
-    padding-left: 75px;
+    padding-left: 45px;
     margin-top: 0px;
 }
 .word h3{
@@ -89,11 +90,23 @@
 
 
 
+
+
+
+
     @media (max-width: 580px) {
+
+        .testo h5{
+            font-size: 17pt;
+        }
         .test{
-        
+        padding: 0%;
             flex-direction: column-reverse;
             align-items: center;
+        }
+        .word{
+            padding-left: 5px;
+            margin-top: 0px;
         }
         .word h3{
             margin-top: 5px;
@@ -116,5 +129,58 @@
         .descr p{
             margin-top: -30px;
         }
+        .descr div{
+            width: 100px;
+            height: 3px;
+            background-color: rgb(255, 251, 0);
+            border-radius: 5px;
+            margin-top: -15px;
+        }
         }
     
+
+
+
+
+          
+
+    @media (max-width: 430px) {
+
+        .word h3{
+            color: rgb(245, 209, 4);
+            font-size: 21pt;
+            margin-top: 15px;
+            font-family:monospace;
+        }
+        .descr{
+            display: flex;
+        
+        }
+        .descr div{
+            width: 100px;
+            height: 3px;
+            background-color: rgb(255, 251, 0);
+            border-radius: 5px;
+            margin-top:15px;
+        }
+        .descr p{
+            font-size: 13pt;
+            margin-top: 5px;
+            color: wheat;
+            margin-left: 5px;
+        }
+        .person div{
+            background-color: rgb(229, 189, 58);
+            width:300px ;
+           
+            height: 160px;
+            border-top-left-radius: 35px;
+            border-bottom-left-radius: 35px;
+        }
+        .person div img{
+            width: 100%;
+            height: 150%;
+            margin-top: -80px;
+            object-fit: contain;
+        }
+    }
