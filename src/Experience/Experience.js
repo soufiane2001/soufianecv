@@ -63,7 +63,7 @@ function Experience() {
             
              <div className='baricons'>
              <div class="glowing-ball"></div>
-             <div className='bar'>.fgdf</div>
+             <div className='bar'></div>
              </div>
             
              <div className='description'>

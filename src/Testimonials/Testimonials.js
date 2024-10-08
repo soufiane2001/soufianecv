@@ -2,6 +2,7 @@ import React from 'react'
 import './style.css'
 import karim from '../assets/karimr.png'
 import michel from '../assets/michel.png'
+import hinda from '../assets/hinda-removebg-preview.png'
 function Testimonials() {
   return (
   <div className='testo'>
@@ -17,8 +18,9 @@ function Testimonials() {
                 <p>
                 I view setbacks as learning opportunities. When a project doesn’t go as planned, I reflect on what went wrong, whether it was a technical issue or something related to planning. For example, in a recent project, an algorithm I developed didn’t perform as expected in the real world. I went back to analyze the assumptions I had made and adjusted the model accordingly. This taught me the importance of flexibility and adapting to new information."
                 </p>
+               
              </div>
-
+ <a href=''>Visite Website</a>
 
           </div>
 
@@ -44,7 +46,7 @@ function Testimonials() {
                 </p>
              </div>
 
-
+             <a href=''>Visite Website</a>
           </div>
 
       <div className='person'>
@@ -57,6 +59,26 @@ function Testimonials() {
 
 
 
+       <div className='test'>
+          <div className='word'>
+              <h3>Hind Elhassouni</h3>
+             <div className='descr'>
+                 <div></div>
+                <p>
+                I view setbacks as learning opportunities. When a project doesn’t go as planned, I reflect on what went wrong, whether it was a technical issue or something related to planning. For example, in a recent project, an algorithm I developed didn’t perform as expected in the real world. I went back to analyze the assumptions I had made and adjusted the model accordingly. This taught me the importance of flexibility and adapting to new information."
+                </p>
+               
+             </div>
+ <a href='https://hind-livid.vercel.app/'>Visite Website</a>
+
+          </div>
+
+      <div className='person'>
+<div>
+    <img src={hinda} />
+</div>
+      </div>
+       </div>
 
 
 

@@ -14,10 +14,12 @@
     justify-content: space-between;
     
 }
-
+.test a{
+    color: white;
+}
 
 .person div{
-    background-color: rgb(229, 189, 58);
+    background-color: rgb(239, 216, 10);
     width:550px ;
    
     height: 330px;
