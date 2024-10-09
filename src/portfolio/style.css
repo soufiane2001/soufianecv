@@ -77,7 +77,7 @@ justify-content: center;
   }
 
   .links{
-    background-color: red;
+    background-color: rgb(38, 25, 25);
     display: flex;
     justify-content: space-around;
   }
@@ -140,7 +140,7 @@ background-color: white;
 
   @media (max-width: 480px) {
     .fa-youtube{
-      margin-left:60%;
+    
   color: red;
   font-size: 14px;
   width: 4px;
@@ -152,7 +152,7 @@ background-color: white;
     font-size: 14px;
     width: 4px;
     height: 4px;
-    margin-left: 20%;
+    
     background-color: white;
   }
     .image-container 
