@@ -78,15 +78,17 @@ justify-content: center;
 
   .links{
     background-color: red;
+    display: flex;
+    justify-content: space-around;
   }
   .fa-youtube{
-    margin-left:50%;
+ 
 color: red;
 background-color: white;
   }
 .fa-github{
   color: #000;
-  margin-left: 30%;
+  
   background-color: white;
 }
 
@@ -182,7 +184,10 @@ background-color: white;
     }
     
     
-  
+  .fa{
+  font-size: 22px;
+  padding: 18px;
+  }
 
   }
 
