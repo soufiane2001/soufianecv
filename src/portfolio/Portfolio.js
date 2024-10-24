@@ -18,7 +18,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Cash App (client)</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
  
  </div>
   </div>
@@ -30,7 +30,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">MarketPlace</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-paly'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -41,7 +41,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Ecommerce</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -52,7 +52,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">reservation app</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -63,7 +63,7 @@ function Portfolio() {
   <div class="overlay">
   <h2 class="title">Rent mobile App</h2>
   <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -79,7 +79,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Dating App</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -92,7 +92,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Sport News App (client) </h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
   
  </div>
   </div>
@@ -106,7 +106,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Painter Portfolio (client)</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
 
  </div>
   </div>
