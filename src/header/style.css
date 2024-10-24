@@ -22,7 +22,7 @@ ul li {
     font-size: 13pt;
     font-weight: 500;
     margin-left: 10px;
-    color: rgb(118, 118, 118);
+    color: #232121;
     list-style: none;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -38,7 +38,7 @@ ul li:hover {
     display: flex;
     justify-content:space-around;
     align-items: center;
-    background-color: #474a4f;
+    background-color: #232121;
     border-radius: 10px;
     padding: 10px 15px;
     width: 150px;
