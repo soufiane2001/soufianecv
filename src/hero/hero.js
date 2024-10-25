@@ -17,7 +17,7 @@ function Hero() {
     <a href="https://web.facebook.com/soufianski2001" class="fa fa-facebook"></a>
     <a href="#" class="fa fa-whatsapp"></a>
     <a href="#" class="fa fa-linkedin"></a>
-    <a href="#" class="fa fa-google"></a>
+    <a href="mailto:sboutatss@gmail.com" class="fa fa-google"></a>
 </div> 
     </div>
   )
