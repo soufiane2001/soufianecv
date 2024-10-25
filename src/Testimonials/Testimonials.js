@@ -22,7 +22,7 @@ We now have a powerful tool to showcase our content, and we’re already seeing 
                " </p>
                
              </div>
- <a href=''>Visite Website</a>
+ <a href='http://widadnews.atwebpages.com/home.php'>Visite Website</a>
 
           </div>
 
