@@ -30,7 +30,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">MarketPlace</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-paly'></i></a>
+    <a href=''><i className='fa fa-youtube-play'></i></a>
     <a href=''><i className='fa fa-github'></i></a>
  </div>
   </div>
