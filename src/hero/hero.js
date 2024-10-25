@@ -14,7 +14,7 @@ function Hero() {
           <img src={soufiane} />
        </div>
       <div class="bar"> 
-    <a href="#" class="fa fa-facebook"></a>
+    <a href="https://web.facebook.com/soufianski2001" class="fa fa-facebook"></a>
     <a href="#" class="fa fa-whatsapp"></a>
     <a href="#" class="fa fa-linkedin"></a>
     <a href="#" class="fa fa-google"></a>
