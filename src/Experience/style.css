@@ -1,5 +1,5 @@
 .experience{
-    background-color: #232121;
+    background-color: rgb(70, 68, 68);
     margin-top: 10%;
 
 padding: 5px;
@@ -102,6 +102,40 @@ margin-top: -20px;
 }
 
 
+@media (max-width: 545px) {
+
+.experience h1{
+    text-align: center;
+  margin-left: -10px;
+    font-size: 20pt;
+
+}
+.exps{
+    margin-top: 15px;
+}
+.exp{
+    margin-top: 15px;
+}
+.glowing-ball{
+    margin-top: 5px;
+    margin-left: 0px;
+    width: 15px;
+    height: 15px;
+}
+
+
+
+.description h2{
+    color: white;
+    font-size: 17pt;
+  
+    margin-top: 8px;
+}
+.description p{
+    margin-top: 10px;
+    font-size: 11pt;
+}
+}
 
 @media (max-width: 415px) {
 
