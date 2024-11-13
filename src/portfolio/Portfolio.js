@@ -20,7 +20,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Cash App (client)</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
+    <a href='https://youtu.be/F3Pjh49qdzE?si=8BeJawuq3FYRB3YV'><i className='fa fa-youtube-play'></i></a>
  
  </div>
   </div>
@@ -32,8 +32,8 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">MarketPlace</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
-    <a href=''><i className='fa fa-github'></i></a>
+    <a href='https://youtu.be/tq9h_W0ZTQc?si=msebT4gLIsPWia1W'><i className='fa fa-youtube-play'></i></a>
+    <a href='https://github.com/soufiane2001/Marketplace'><i className='fa fa-github'></i></a>
  </div>
   </div>
 </div>
@@ -43,8 +43,8 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Ecommerce</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
-    <a href=''><i className='fa fa-github'></i></a>
+    <a href='https://youtu.be/gj7IWaDnEXI?si=_7s2fg5GTVGqiks6'><i className='fa fa-youtube-play'></i></a>
+    <a href='https://github.com/soufiane2001/EcomaddorderReact'><i className='fa fa-github'></i></a>
  </div>
   </div>
 </div>
@@ -54,8 +54,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">reservation app</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
-    <a href=''><i className='fa fa-github'></i></a>
+    <a href='https://github.com/soufiane2001/casafootmobileapp'><i className='fa fa-github'></i></a>
  </div>
   </div>
 </div>
@@ -65,8 +64,8 @@ function Portfolio() {
   <div class="overlay">
   <h2 class="title">Rent mobile App</h2>
   <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
-    <a href=''><i className='fa fa-github'></i></a>
+    <a href='https://youtu.be/UVQUKwiEO0Q?si=312CMBZME3ah4f9r'><i className='fa fa-youtube-play'></i></a>
+    <a href='https://github.com/soufiane2001/Ajinkriw'><i className='fa fa-github'></i></a>
  </div>
   </div>
 </div>
@@ -82,7 +81,7 @@ function Portfolio() {
     <h2 class="title">Dating App</h2>
     <div className='links'>
     <a href=''><i className='fa fa-youtube-play'></i></a>
-    <a href=''><i className='fa fa-github'></i></a>
+    <a href='https://github.com/soufiane2001/Horoslovegabarit'><i className='fa fa-github'></i></a>
  </div>
   </div>
 </div>
@@ -108,7 +107,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Painter Portfolio (client)</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
+    <a href='https://youtu.be/RTqaLIWhK0U?si=gfrYpWFIq1kIX3c9'><i className='fa fa-youtube-play'></i></a>
 
  </div>
   </div>
