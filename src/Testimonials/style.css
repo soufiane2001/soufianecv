@@ -3,6 +3,7 @@
     font-size: 26pt;
     margin-top: -25px;
     margin-left: 55px;
+     font-family: "Sour Gummy", sans-serif ;
 }
 
 
@@ -10,7 +11,7 @@
     padding: 5% 0% 5% 1%;
     display: flex;
    margin-top: 80px;
-
+ font-family: "Sour Gummy", sans-serif ;
     justify-content: space-between;
     
 }
