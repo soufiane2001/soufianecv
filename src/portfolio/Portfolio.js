@@ -6,6 +6,8 @@ import pr1 from '../assets/pr1.JPG'
 import pr6 from '../assets/pr6.png'
 import pr7 from '../assets/pr7.JPG'
 import pr8 from '../assets/pr8.JPG'
+import horoslove from '../assets/horoslove.jpg'
+import casasport from '../assets/casasport.jpg'
 function Portfolio() {
   return (
     <div className='portfolios'>
@@ -48,7 +50,7 @@ function Portfolio() {
 </div>
 
 <div class="image-container">
-  <img src="https://img.freepik.com/premium-vector/chat-app-logo-design-template-can-be-used-icon-chat-application-logo_605910-1724.jpg" alt="Image" />
+  <img src={casasport} alt="Image" />
   <div class="overlay">
     <h2 class="title">reservation app</h2>
     <div className='links'>
@@ -75,7 +77,7 @@ function Portfolio() {
 
 
 <div class="image-container">
-  <img src={pr6} alt="Image" />
+  <img src={horoslove} alt="Image" />
   <div class="overlay">
     <h2 class="title">Dating App</h2>
     <div className='links'>
