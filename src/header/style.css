@@ -70,6 +70,7 @@ ul li:hover {
 .search-container .search-icon {
     font-size: 18px;
     color: #AAA;
+     font-family: "Roboto", sans-serif !important;
 }
 
 
