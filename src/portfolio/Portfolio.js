@@ -80,7 +80,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Dating App</h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
+    <a href='https://youtube.com/shorts/qYWI6MkadZk'><i className='fa fa-youtube-play'></i></a>
     <a href='https://github.com/soufiane2001/Horoslovegabarit'><i className='fa fa-github'></i></a>
  </div>
   </div>
@@ -93,7 +93,7 @@ function Portfolio() {
   <div class="overlay">
     <h2 class="title">Sport News App (client) </h2>
     <div className='links'>
-    <a href=''><i className='fa fa-youtube-play'></i></a>
+    <a href='https://youtu.be/HBFPssMi82Q?si=eJmEZtcFJ_7ha4MB'><i className='fa fa-youtube-play'></i></a>
   
  </div>
   </div>
