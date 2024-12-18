@@ -7,7 +7,7 @@ function Hero() {
        <div className='one'> 
           <h2>I'M <span>Soufiane Boutatss</span></h2>
           <h2>Web & Mobile Developper</h2>
-          <button><a href="./cv25.pdf" style="text-decoration:none"> Download cv </a></button>
+          <button><a href="./cv25.pdf"> Download cv </a></button>
        </div>
 
        <div className='two'> 
