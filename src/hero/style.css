@@ -14,8 +14,15 @@
 }
 button a{
 text-decoration:none;
+    color:yellow;
+}
+button a:hover{
+
     color:white;
 }
+
+
+
 .two{
     width: 50%;
 }
